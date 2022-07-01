@@ -1,0 +1,5 @@
+print('Hello world...')
+print('Its me again Aiden.')
+print('Its Friday!')
+print('YAY!!!')
+print('Its a beautiful day today!')
